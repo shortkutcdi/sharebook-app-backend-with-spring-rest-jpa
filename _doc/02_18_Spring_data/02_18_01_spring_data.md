@@ -4,6 +4,10 @@
 
 chaque table du modèle de données correspondra à une entité JPA de Spring DATA
 
+## Mapping des entités
+
+<img title="Mapping des entités" src="02_18__02_spring_data_mapping_des_entitees.png" width="600px" /> 
+
 ## Repository - interrogation de la BDD
 
 - abstraction pour interroger la BDD (possibilité de changer de système de BDD - implémentation)
