@@ -1,4 +1,7 @@
-# Sharebook app - frontend part with Spring
+# Sharebook app - backend part with Spring
 
+- JPA
+- Rest controller
 
+## Entities
 
