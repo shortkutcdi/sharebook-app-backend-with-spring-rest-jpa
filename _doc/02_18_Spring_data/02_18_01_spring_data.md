@@ -10,7 +10,7 @@ chaque table du modèle de données correspondra à une entité JPA de Spring DA
 - Interface qui étend une interface de SPRING (CrudRepository)
 - définitions des méthodes personnalisées qui vont générer les requêtes (SQL ou non)
 
-## ajout des dépendences Spring data jpa et h2
+## ajout des dépendances Spring data jpa et h2 dans eclipse
 
 clic droit projet/Spring/edit starters
 
